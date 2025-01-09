@@ -69,7 +69,8 @@ Start the Streamlit application:
 ```bash
 streamlit run main.py
 ```
-
+🚀 Deploy Link
+Access the live application here: https://langflow-assignment-jfpfpajnd2wfpavvvaowzp.streamlit.app/ 
 ## How to Use
 (1) Enter your query in the text area provided.
 
@@ -83,7 +84,7 @@ View the analysis result along with the chat history displayed below the input a
 - .env: File for storing environment variables securely.
 
 ## Demonstration
-<Youtube Link>
+https://www.youtube.com/watch?v=4S4yKrse48I&t=12s&ab_channel=Passionatebread
 
 ## Notes
 Ensure you have a valid LangFlow APP_TOKEN before running the application.
